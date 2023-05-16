@@ -1,0 +1,19 @@
+# Wavefront OBJ file written 2023-05-16T15:25:29
+o building_outlet_edgeMesh
+
+# points : 4
+# lines  : 4
+
+# <points count="4">
+v 175.1266 62.63773 27.45
+v 175.1266 53.15396 27.45
+v 175.1266 53.15396 31.29687
+v 175.1266 62.63773 31.29687
+# </points>
+
+# <edges count="4">
+l 1 2
+l 2 3
+l 3 4
+l 4 1
+# </edges>
